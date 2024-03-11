@@ -1,0 +1,66 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    
+    background-image: url('/images/1.png');
+    
+}
+
+/*css for movie name*/
+.movie-name{
+    color: white;
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 3em;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.movie-name h3{
+    font-size: 30px;
+    color: red;
+    margin-top: 0px;
+}
+
+/*css for movie content*/
+.main-content{
+   color: white; 
+   margin-left: 100px;
+   font-size: 25px;
+   font-family: monospace;
+}
+
+/*css for movie details*/
+.movie-details{
+    color: grey;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+}
+
+.movie-details p{
+    color: white;
+}
+
+/*css for button*/
+button{
+    position:absolute;
+    top: 70%;
+    left:8%;
+    padding: 20px 70px;
+    font-size: 30px;
+    border: 2px solid #fff;
+    background: none;
+    color:#fff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.footer-content{
+    font-size: 30px;
+    color: white;
+    margin-top: 200px;
+    margin-left: 60px;
+    font-size: 20px;
+}
